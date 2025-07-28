@@ -29,6 +29,8 @@ Currently studying mathematics at HKUST, with a strong interest in AI, data scie
   - I’m always optimizing workflows, whether it’s code, learning, or gaming  
   - Chess, Minecraft, and hacking new tech stacks are my favorite ways to unwind
 
+![Zihao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZIHAOFU245&show_icons=true&theme=tokyonight)
+
 <!--
 **ZihaoFU245/ZIHAOFU245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
