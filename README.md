@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋!!! [Check my web page](https://zihaofu245.github.io) 
 
 I'm an math, engineering and computer science student with a passion for problem-solving and building cool, efficient software.  
 Currently studying mathematics at HKUST, with a strong interest in AI, data science, and system design.
